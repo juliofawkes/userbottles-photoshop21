@@ -10,7 +10,7 @@ Tested on Linux Mint 22, GPU RX580 + Ryzen 3600, esync, svm enabled, no noticeab
 Known bug list
 
 * When selecting font from the menu, the selection highlight is on wrong line. The actual font selected is one under your cursor.
-* Moving panels may cause unstoppable eye-tearing window flicker. DOnt allow panels to undock and make backup (not snapshot!!!) of your installation before moving them.
+* Interface may start flickering afterminimizing wondow. Updock and dock again any toolbar to stop it. And better nopt press the minimize button
 * Sometimes moving cursor in text window sends the cursor adrift. Use the mouse.
 * Login not working due to adobe policy changes
 * Process may not close if exit using menu
