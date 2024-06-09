@@ -10,10 +10,10 @@ Tested on Linux Mint 22, GPU RX580 + Ryzen 3600, esync, svm enabled, no noticeab
 Known bug list
 
 * When selecting font from the menu, the selection highlight is on wrong line. The actual font selected is one under your cursor.
-* Interface may start flickering afterminimizing wondow. Updock and dock again any toolbar to stop it. And better nopt press the minimize button
+* Interface may start flickering after maximizing window. Change size to not-maximized.
 * Sometimes moving cursor in text window sends the cursor adrift. Use the mouse.
 * Login not working due to adobe policy changes
-* Process may not close if exit using menu
+* Process may not close if exit using menu- just wait 10sec approx
 * If uncheck "Legacy document creation", PS will crash on attempt to make new document
 
 ![photo_2024-06-05_00-28-51](https://github.com/juliofawkes/userbottles-photoshop21/assets/37700508/5f89c37f-1400-4ce2-8c78-b2fcb1395e9f)
